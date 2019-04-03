@@ -1,0 +1,3 @@
+dog.jpg 1
+ss.jpg 0
+pre.jpg 2
